@@ -13,7 +13,7 @@
     "description": "FlashBot AI tư vấn – trả lời khách – chốt đơn 24/7.",
     "image": "https://docs.flashbot.vn/assets/flashbot-thumb.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/favicon.png",
   "navigation": {
     "tabs": [
       {
