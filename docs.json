@@ -8,6 +8,11 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+   "seo": {
+    "title": "FlashBot - Chốt Đơn Thần Tốc",
+    "description": "FlashBot AI tư vấn – trả lời khách – chốt đơn 24/7.",
+    "image": "https://docs.flashbot.vn/assets/flashbot-thumb.png"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -17,7 +22,7 @@
           {
             "group": "Bắt đầu",
             "pages": [
-              "Khởi động nhanh"
+              "quickstart"
             ]
           }
         ]
