@@ -36,13 +36,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Hỗ trợ",
         "href": "mailto:@flashbot.vn"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Trang chủ",
       "href": "https://docs.flashbot.vn"
     }
   }
